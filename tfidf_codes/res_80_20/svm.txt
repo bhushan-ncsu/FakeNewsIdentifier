@@ -1,0 +1,10 @@
+SVM accuracy on training data : 99.2304656669%
+SVM accuracy on testing data : 94.3962115233%
+SVM accuracy on training data : 99.2107340174%
+SVM accuracy on testing data : 93.9226519337%
+SVM accuracy on training data : 99.09234412%
+SVM accuracy on testing data : 94.3962115233%
+SVM accuracy on training data : 99.0726124704%
+SVM accuracy on testing data : 94.4751381215%
+SVM accuracy on training data : 99.1120757695%
+SVM accuracy on testing data : 94.4751381215%

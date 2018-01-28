@@ -1,0 +1,10 @@
+Neural Network accuracy on training data : 100.0%
+Neural Network accuracy on testing data : 94.1594317285%
+Neural Network accuracy on training data : 100.0%
+Neural Network accuracy on testing data : 94.0805051302%
+Neural Network accuracy on training data : 100.0%
+Neural Network accuracy on testing data : 91.9494869771%
+Neural Network accuracy on training data : 100.0%
+Neural Network accuracy on testing data : 93.5280189424%
+Neural Network accuracy on training data : 100.0%
+Neural Network accuracy on testing data : 94.0805051302%

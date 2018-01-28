@@ -1,0 +1,10 @@
+Random Forest accuracy on training data : 99.4475138122%
+Random Forest accuracy on testing data : 81.7679558011%
+Random Forest accuracy on training data : 99.4475138122%
+Random Forest accuracy on testing data : 85.319652723%
+Random Forest accuracy on training data : 99.54617206%
+Random Forest accuracy on testing data : 85.3985793212%
+Random Forest accuracy on training data : 99.5856353591%
+Random Forest accuracy on testing data : 83.5832675612%
+Random Forest accuracy on training data : 99.4672454617%
+Random Forest accuracy on testing data : 86.1878453039%

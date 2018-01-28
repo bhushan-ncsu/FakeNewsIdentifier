@@ -1,0 +1,10 @@
+Naive Bayes accuracy on training data : 90.1894451962%
+Naive Bayes accuracy on testing data : 84.7448711205%
+Naive Bayes accuracy on training data : 90.7081641858%
+Naive Bayes accuracy on testing data : 83.9558127301%
+Naive Bayes accuracy on training data : 91.0915651782%
+Naive Bayes accuracy on testing data : 84.8500789058%
+Naive Bayes accuracy on training data : 90.3924221922%
+Naive Bayes accuracy on testing data : 83.5875854813%
+Naive Bayes accuracy on training data : 90.3698691926%
+Naive Bayes accuracy on testing data : 85.165702262%
